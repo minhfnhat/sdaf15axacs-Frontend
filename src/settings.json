@@ -1,0 +1,34 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "NavbarSimple"
+    },
+    {
+      "id": "HeroWithOffsetImage"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "minimal",
+  "title": "Revolutionize Your Workspace",
+  "subtitle": "Empowering Professionals with Innovative Solutions for Unparalleled Productivity"
+}
